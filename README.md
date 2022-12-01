@@ -1,1 +1,1 @@
-# Computergestuetzte-Visualisierung-von-Kammermusik
+# Computergestuetzte Visualisierung von Kammermusik
