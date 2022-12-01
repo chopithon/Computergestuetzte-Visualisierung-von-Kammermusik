@@ -25,10 +25,11 @@ file_path = "file-name.mid"
 
 ## Ordnerstruktur
 Die Ordnerstruktur ist wie folgt aufgebaut:Der Ordner Entwicklung enthält alle Dateien, mit denen das Programm entwickelt worden ist. Dieser Ordner enthält folgende Unterordner
-- Dateien zum Erstellen einer Ebene (1_plot-visualization)
-- Dateien zum Erstellen einer Linie (2_line-visualization)
-- Dateien zur Musikanalyse (3_music-analysis) 
-- Dateien zur Visualisierung (4_visualization). 
+- Dateien zum Erstellen einer Ebene: [1_plot-visualization](1_plot-visualization)
+- Dateien zum Erstellen einer Linie: [2_line-visualization](2_line-visualization)
+- Dateien zur Musikanalyse: [3_music-analysis](3_music-analysis) 
+- Dateien zur Visualisierung: [4_visualization](4_visualization)
+
 Das Programm ist unter der Datei [main](main.py) zu finden. 
 
 ## Beispiel
