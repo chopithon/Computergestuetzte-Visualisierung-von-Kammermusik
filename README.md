@@ -34,4 +34,4 @@ Das Programm ist unter der Datei [main](main.py) zu finden.
 ## Beispiel
 Visualisierung des ersten Satzes aus dem Divertimento in F-Dur für 2 Oboen, 2 Hörner und 2 Fagotte von W. A. Mozart:
 
-https://user-images.githubusercontent.com/103033812/205122106-8db08cb5-7209-4d22-af6c-14d9f30b7419.mov
+[Mozart-Divertimento](https://user-images.githubusercontent.com/103033812/205122106-8db08cb5-7209-4d22-af6c-14d9f30b7419.mov)
